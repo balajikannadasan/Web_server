@@ -50,3 +50,4 @@ httpd.serve_forever()
 ![output](/images/webj.png)
 
 ## RESULT:
+To develop a simple webserver to serve html pages is successfully created.
